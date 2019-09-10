@@ -5,7 +5,7 @@
 - [grafica e animazioni](http://albertoferrari.github.io/informatica/lezioni3/c3-04-grafica_animazioni.pdf){:target="_blank"}
 - [stringhe e liste](http://albertoferrari.github.io/informatica/lezioni3/c3-05-stringhe_liste.pdf){:target="_blank"}
 - [oggetti e game](http://albertoferrari.github.io/informatica/lezioni3/c3-06-oggetti&game.pdf){:target="_blank"}
-- [algoritmi notevoli](http://albertoferrari.github.io/informatica/lezioni3/c3-07-algoritmi notevoli.pdf){:target="_blank"}
+- [algoritmi notevoli](http://albertoferrari.github.io/informatica/lezioni3/c3-07-algoritmi_notevoli.pdf){:target="_blank"}
 - [file](http://albertoferrari.github.io/informatica/lezioni3/c3-08-file.pdf){:target="_blank"}
 - [top-down bottom-up](http://albertoferrari.github.io/informatica/lezioni3/c3-09-metodologie.pdf){:target="_blank"}
 - [ricorsione](http://albertoferrari.github.io/informatica/lezioni3/c3-10-ricorsione.pdf){:target="_blank"}
