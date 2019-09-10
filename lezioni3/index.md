@@ -1,21 +1,12 @@
-### lezioni
-- [introduzione](http://albertoferrari.github.io/crittografia/lezioni/cr-00-crittografia_introduzione.pdf){:target="_blank"}
-
-
-algoritmi
-python: introduzione
-procedure e funzioni
-grafica e animazioni
-stringhe e liste
-oggetti e game
-algoritmi notevoli
-file
-top-down bottom-up
-ricorsione (codice)
-matrici
-materiale didattico
-thinkpython_italian
-(g2d) grafica 2d
-quick reference
-programma
-programma
+#### moduli
+- [algoritmi](http://albertoferrari.github.io/informatica/lezioni3/c3-01-algoritmi.pdf){:target="_blank"}
+- [python: introduzione](http://albertoferrari.github.io/informatica/lezioni3/c3-02-python-introduzione.pdf){:target="_blank"}
+- [procedure e funzioni](http://albertoferrari.github.io/informatica/lezioni3/c3-03-funzioni.pdf){:target="_blank"}
+- [grafica e animazioni](http://albertoferrari.github.io/informatica/lezioni3/c3-04-grafica_animazioni.pdf){:target="_blank"}
+- [stringhe e liste](http://albertoferrari.github.io/informatica/lezioni3/c3-05-stringhe_liste.pdf){:target="_blank"}
+- [oggetti e game](http://albertoferrari.github.io/informatica/lezioni3/c3-06-oggetti&game.pdf){:target="_blank"}
+- [algoritmi notevoli](http://albertoferrari.github.io/informatica/lezioni3/c3-07-algoritmi notevoli.pdf){:target="_blank"}
+- [file](http://albertoferrari.github.io/informatica/lezioni3/c3-08-file.pdf){:target="_blank"}
+- [top-down bottom-up](http://albertoferrari.github.io/informatica/lezioni3/c3-09-metodologie.pdf){:target="_blank"}
+- [ricorsione](http://albertoferrari.github.io/informatica/lezioni3/c3-10-ricorsione.pdf){:target="_blank"}
+- [matrici](http://albertoferrari.github.io/informatica/lezioni3/c3-11-matrici.pdf){:target="_blank"}
