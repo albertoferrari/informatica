@@ -1,6 +1,4 @@
-Informatica
-
-### introduzione all'informatica e alla programmazione (Python)
+#### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
 
 #### programmazione orientata agli oggetti(Java)
