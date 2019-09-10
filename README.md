@@ -1,5 +1,5 @@
 # informatica
-lezioni informatica
+computer science
 
 http://albertoferrari.github.io/informatica/
 
