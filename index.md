@@ -1,4 +1,4 @@
-<img align="center" src="https://albertoferrari.github.io/informatica/informatica.jpg">
+<img align="middle" src="https://albertoferrari.github.io/informatica/informatica.jpg">
 
 #### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
