@@ -7,3 +7,6 @@
 
 #### basi di dati (C#, Php, SQL)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni5/)
+
+##### crittografia
+- [introduzione alla crittografia](https://albertoferrari.github.io/crittografia/)
