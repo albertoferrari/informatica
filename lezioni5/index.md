@@ -13,5 +13,5 @@
 - [SQL avanzato](http://albertoferrari.github.io/informatica/lezioni5/c5-08-SQL_avanzato.pdf){:target="_blank"}
 - [PHP](http://albertoferrari.github.io/informatica/lezioni5/c5-10-php.pdf){:target="_blank"}
 - [AJAX](http://albertoferrari.github.io/informatica/lezioni5/c5-11-ajax.pdf){:target="_blank"}
-  - [AJAX: esempi](http://albertoferrari.github.io/informatica/lezioni5/materiale){:target="_blank"}
+  - [AJAX: esempi](lezioni5/materiale/ajax_esempi.zip)
 - [diritto e informatica](http://albertoferrari.github.io/informatica/lezioni5/c5-12-diritto.pdf){:target="_blank"}
