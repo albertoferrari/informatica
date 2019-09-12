@@ -1,4 +1,4 @@
-![alt text](https://albertoferrari.github.io/albertoferrari.github.io/AF.jpg "Alberto Ferrari")
+<img align="center" src="https://albertoferrari.github.io/albertoferrari.github.io/informatica.jpg">
 
 #### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
