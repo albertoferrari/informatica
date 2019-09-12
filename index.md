@@ -1,3 +1,5 @@
+![alt text](https://albertoferrari.github.io/albertoferrari.github.io/AF.jpg "Alberto Ferrari")
+
 #### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
 - [materiale didattico](http://albertoferrari.github.io/informatica/lezioni3/materiale)
