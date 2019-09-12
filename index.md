@@ -1,5 +1,3 @@
-<img align="middle" src="https://albertoferrari.github.io/informatica/informatica.jpg">
-
 #### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
 - [materiale didattico](http://albertoferrari.github.io/informatica/lezioni3/materiale)
@@ -14,3 +12,5 @@
 
 ##### crittografia
 - [introduzione alla crittografia](https://albertoferrari.github.io/crittografia/)
+
+<img align="middle" src="https://albertoferrari.github.io/informatica/informatica.jpg">
