@@ -1,6 +1,7 @@
 #### introduzione all'informatica e alla programmazione (Python)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni3/)
 - [materiale didattico](http://albertoferrari.github.io/informatica/lezioni3/materiale)
+- [esempi](http://albertoferrari.github.io/informatica/lezioni3/esempi)
 
 #### programmazione orientata agli oggetti(Java)
 - [lezioni](http://albertoferrari.github.io/informatica/lezioni4/)
