@@ -18,4 +18,5 @@
 - [pattern](http://albertoferrari.github.io/informatica/lezioni4/c4-13-pattern.pdf){:target="_blank"}
 - [titpi di dato astratti (esempi)](http://albertoferrari.github.io/informatica/lezioni4/c4-14-tipi_astratti.pdf){:target="_blank"}
 - [git & github](http://albertoferrari.github.io/informatica/lezioni4/c4-15-git.pdf){:target="_blank"}
+- [programmazione concorrente](http://albertoferrari.github.io/informatica/lezioni4/c4-19-programmazione_concorrente.pdf){:target="_blank"}
 - [complessità computazionale](http://albertoferrari.github.io/informatica/lezioni4/c4-20-complessita_computazionale.pdf){:target="_blank"}
