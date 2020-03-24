@@ -13,3 +13,5 @@
 - [top-down bottom-up](http://albertoferrari.github.io/informatica/lezioni3/c3-09-metodologie.pdf){:target="_blank"}
 - [ricorsione](http://albertoferrari.github.io/informatica/lezioni3/c3-10-ricorsione.pdf){:target="_blank"}
 - [matrici](http://albertoferrari.github.io/informatica/lezioni3/c3-11-matrici.pdf){:target="_blank"}
+- [dizionari](http://albertoferrari.github.io/informatica/lezioni3/c3-13-dizionari.pdf){:target="_blank"}
+
