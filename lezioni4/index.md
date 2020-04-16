@@ -6,7 +6,7 @@
 - [Java: le basi del linguaggio](http://albertoferrari.github.io/informatica/lezioni4/c4-02-Java_basi_del_linguaggio.pdf){:target="_blank"}
 - [OOP: introduzione](http://albertoferrari.github.io/informatica/lezioni4/c4-03-OOP_intruduzione.pdf){:target="_blank"}
 - [costruttori e distruttori](http://albertoferrari.github.io/informatica/lezioni4/c4-04-costruttori_distruttori.pdf){:target="_blank"}
-- [esempio: date](http://albertoferrari.github.io/informatica/lezioni4/c4-04a-package.pdf){:target="_blank"}
+- [package](http://albertoferrari.github.io/informatica/lezioni4/c4-04a-package.pdf){:target="_blank"}
 - [eccezioni](http://albertoferrari.github.io/informatica/lezioni4/c4-05-eccezioni.pdf){:target="_blank"}
 - [ereditarietà e polimorfismo](http://albertoferrari.github.io/informatica/lezioni4/c4-06-ereditarieta_polimorfismo.pdf){:target="_blank"}
 - [UML class diagram](http://albertoferrari.github.io/informatica/lezioni4/c4-07-OOD.pdf){:target="_blank"}
